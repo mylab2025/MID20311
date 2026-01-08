@@ -1,0 +1,44 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "TESTING DRAFT",
+        "PN": "0123456789",
+        "MF": "MyLab Enterprices"
+      },
+      "MID": "MID20311",
+      "MD": "Just Testing",
+      "MT": "GBOM",
+      "MQNT": 1,
+      "MCost": 0.0,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20311%2Fmain%2FBOM_Report.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [],
+      "GBOM_data": [
+        {
+          "MID": "MID20257",
+          "QTY": 2
+        },
+        {
+          "MID": "MID20277",
+          "QTY": 5
+        },
+        {
+          "MID": "MID20299",
+          "QTY": 1
+        },
+        {
+          "MID": "MID20286",
+          "QTY": 6
+        }
+      ]
+    }
+  ]
+}
