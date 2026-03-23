@@ -1,6 +1,37 @@
 {
   "inventory": [
     {
+      "GBOM_data": [
+        {
+          "MID": "MID20257",
+          "QTY": 2,
+          "REF": "A1",
+          "SupplierType": "",
+          "SupplierName": ""
+        },
+        {
+          "MID": "MID20277",
+          "QTY": 5,
+          "REF": "B7",
+          "SupplierType": "",
+          "SupplierName": ""
+        },
+        {
+          "MID": "MID20299",
+          "QTY": 1,
+          "REF": "Y78",
+          "SupplierType": "",
+          "SupplierName": ""
+        },
+        {
+          "MID": "MID20286",
+          "QTY": 6,
+          "REF": "L5",
+          "SupplierType": "",
+          "SupplierName": ""
+        }
+      ],
+      "RepoCreatedAt": "2026-01-08T11:23:21+05:30",
       "MaterialTitle": {
         "Name": "TESTING DRAFT",
         "PN": "0123456789",
@@ -9,9 +40,9 @@
       "MID": "MID20311",
       "MD": "Just Testing",
       "MT": "GBOM",
+      "MQATG": "#CLASS_0",
       "MQNT": 1,
       "MCost": 0.0,
-      "MQATG": "#CLASS_0",
       "ML": "",
       "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20311%2Fmain%2FBOM_Report.pdf",
       "MAF1": "",
@@ -20,25 +51,7 @@
       "MAF4": "",
       "MAF5": "",
       "MR": "",
-      "MaterialImages": [],
-      "GBOM_data": [
-        {
-          "MID": "MID20257",
-          "QTY": 2
-        },
-        {
-          "MID": "MID20277",
-          "QTY": 5
-        },
-        {
-          "MID": "MID20299",
-          "QTY": 1
-        },
-        {
-          "MID": "MID20286",
-          "QTY": 6
-        }
-      ]
+      "MaterialImages": []
     }
   ]
 }
