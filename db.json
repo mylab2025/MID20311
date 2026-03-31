@@ -31,7 +31,7 @@
           "SupplierName": ""
         }
       ],
-      "RepoCreatedAt": "2026-01-08T11:23:21+05:30",
+      "RepoCreatedAt": "2026-01-08T11:23:21\u002B05:30",
       "MaterialTitle": {
         "Name": "TESTING DRAFT",
         "PN": "0123456789",
@@ -41,7 +41,7 @@
       "MD": "Just Testing",
       "MT": "GBOM",
       "MQATG": "#CLASS_0",
-      "MQNT": 1,
+      "MQNT": 8,
       "MCost": 0.0,
       "ML": "",
       "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20311%2Fmain%2FBOM_Report.pdf",
